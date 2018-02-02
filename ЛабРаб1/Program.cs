@@ -16,6 +16,7 @@ namespace ЛабРаб1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+			ИЗМЕНЕНИЕ
             Application.Run(new Menu());
         }
     }
