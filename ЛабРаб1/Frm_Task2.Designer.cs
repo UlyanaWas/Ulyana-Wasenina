@@ -30,41 +30,6 @@ namespace ЛабРаб1
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_Task2));
-            this.label1 = new System.Windows.Forms.Label();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label = new System.Windows.Forms.Label();
-            this.Btn_Start = new System.Windows.Forms.Button();
-            this.Dgrv2 = new System.Windows.Forms.DataGridView();
-            this.label4 = new System.Windows.Forms.Label();
-            this.Lbl_Max = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.Dgrv1 = new System.Windows.Forms.DataGridView();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.Menu = new System.Windows.Forms.Button();
-            this.groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Dgrv2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Dgrv1)).BeginInit();
-            this.SuspendLayout();
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Location = new System.Drawing.Point(77, 26);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(476, 21);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Из одномерного массива удалить максимальный элемент.";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // groupBox1
-            // 
-            this.groupBox1.BackColor = System.Drawing.Color.Transparent;
-            this.groupBox1.Controls.Add(this.label);
-            this.groupBox1.Controls.Add(this.Btn_Start);
-            this.groupBox1.Controls.Add(this.Dgrv2);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.Lbl_Max);
             this.groupBox1.Controls.Add(this.label3);
